@@ -1,0 +1,1 @@
+import{f as t,c as a,o,a1 as r}from"./chunks/framework.Baju3tsf.js";const _=JSON.parse('{"title":"About Me","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),l={name:"about.md"};function i(n,e,u,c,m,s){return o(),a("div",null,e[0]||(e[0]=[r("",5)]))}const b=t(l,[["render",i]]);export{_ as __pageData,b as default};
